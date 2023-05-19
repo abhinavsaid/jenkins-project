@@ -1,1 +1,1 @@
-Hello, World!
+Welcome to S2 Classes!
